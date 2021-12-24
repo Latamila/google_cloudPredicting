@@ -1,0 +1,24 @@
+print('Olá! Eu sou a Camila Veloso!')
+
+TESTE GOOGLE CLOUD BIG DATA AND MACHINE LEARNING FUNDAMENTALS
+
+TESTE
+
+1.Relational databases are a good choice when you need:
+
+[X ]Transactional updates on relatively small datasets ($)
+
+[  ]Streaming, high-throughput writes (X)
+
+[  ]Fast queries on terabytes of data (X)
+
+[  ]Aggregations on unstructured data (X)
+
+
+2. Cloud SQL and Cloud Dataproc offer familiar tools (MySQL and Hadoop/Pig/Hive/Spark). What is the value-add provided by Google Cloud Platform? (Select all of the correct options)
+[X ]Running it on Google infrastructure offers reliability and cost savings. ($)*Yes. You pay only for the resources you use. Cloud SQL can be shut down when it’s not being used. Hadoop clusters can be of preemptible nodes, and so on.
+[  ]It’s the same API, but Google implements it better (X) *No. It is actually MySQL and Hadoop. Exactly the same software as what you would download.
+[  ]Google-proprietary extensions and bug fixes to MySQL, Hadoop, and so on
+[X ]Fully-managed versions of the software offer no-ops ($) *Yes. No-ops is the main value-add here.
+
+print('Até o nosso próximo teste!')
